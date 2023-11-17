@@ -4,7 +4,8 @@
 
 Feel free to contribute and submit a PR!
 
-![cyper-pro](https://github.com/RocketGod-git/cyper-pro/assets/57732082/26d5ff4d-405c-4e19-8f8f-3e2432ba457e)
+![cyper-pro](https://github.com/RocketGod-git/cyper-pro/assets/57732082/277f45ef-8fc0-4c20-85fe-d34aaab6b31e)
+
 
 ## 🚀 Connect with RocketGod, Cyper Pro Team, or The Pirates' Plunder Crew 
 
