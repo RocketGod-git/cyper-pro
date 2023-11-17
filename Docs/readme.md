@@ -10,11 +10,11 @@ For full documentation, visit our website:
 
 ## Contributing
 
-Found something missing or have something to add? Contributions are more than welcome! Feel free to submit a PR or reach out to us on our [Discord server](https://discord.gg/7Js2NJ4rHe).
+Found something missing or have something to add? Contributions are more than welcome! Feel free to submit a PR.
 
 ## Stay Connected
-
-- Join our [Cyper Pro Discord Server](https://discord.gg/7Js2NJ4rHe) to connect with the team and community.
+https://discord.gg/UWEgw7guhy
+- Join our [Cyper Pro Discord Server](https://discord.gg/UWEgw7guhy) to connect with the team and community.
 
 ---
 
