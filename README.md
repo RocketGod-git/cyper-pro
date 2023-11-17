@@ -8,7 +8,6 @@ Feel free to contribute and submit a PR!
 
 ## 🚀 Connect with RocketGod, Cyper Pro Team, or The Pirates' Plunder Crew
 
-- 🎥 [RocketGod's YouTube Channel](https://youtube.com/@lordRocketGod)
 - 🛜 [Cyper Pro Discord Server](https://discord.gg/7Js2NJ4rHe)
 - 🏴‍☠️ [The Pirates' Plunder](https://discord.gg/thepirates)
 
