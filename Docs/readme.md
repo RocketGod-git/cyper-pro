@@ -13,7 +13,7 @@ For full documentation, visit our website:
 Found something missing or have something to add? Contributions are more than welcome! Feel free to submit a PR.
 
 ## Stay Connected
-https://discord.gg/UWEgw7guhy
+
 - Join our [Cyper Pro Discord Server](https://discord.gg/UWEgw7guhy) to connect with the team and community.
 
 ---
