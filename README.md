@@ -13,7 +13,7 @@ Feel free to contribute and submit a PR!
 - 🏴‍☠️ [The Pirates' Plunder](https://discord.gg/thepirates)
 
 
-## 📡 This repo is under cunstruction and will be updated and loaded with fun stuff as we make it.
+## 📡 This repo is under construction and will be updated and loaded with fun stuff as we make it.
 
 
 
