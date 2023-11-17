@@ -6,7 +6,7 @@ Feel free to contribute and submit a PR!
 
 ![cyper-pro](https://github.com/RocketGod-git/cyper-pro/assets/57732082/26d5ff4d-405c-4e19-8f8f-3e2432ba457e)
 
-## 🚀 Connect with RocketGod, Cyper Pro Team, or The Pirates' Plunder Crew
+## 🚀 Connect with RocketGod, Cyper Pro Team, or The Pirates' Plunder Crew 
 
 - 🛜 [Cyper Pro Discord Server](https://discord.gg/7Js2NJ4rHe)
 - 🏴‍☠️ [The Pirates' Plunder](https://discord.gg/thepirates)
